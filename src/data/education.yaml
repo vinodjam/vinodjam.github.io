@@ -1,0 +1,9 @@
+- name: "M. Tech (Research)"
+  university: "Computational and Data Science, Indian Institute of Science, Bangalore"
+  date: "2019 - Present"
+  #~ gpa: "3.63 / 4.00"
+
+- name: "B. Tech "
+  university: "Mechanical Engineering, National Institute of Technology, Surathkal"
+  date: "2015 - 2019"
+  #~ gpa : "3.35 / 4.00"

@@ -1,0 +1,16 @@
+skills:
+  - "Python - C - C++"
+  - "CUDA - Bash"
+
+interests:
+  - "Numerical Methods"
+  - "High Performance Computing"
+
+
+
+about:
+  - name: "VINOD JACOB MATTHEW"
+    #~ tagline: "Industrial Engineer"
+    #~ phone: "5070*4****"
+    #~ email: "yourmail@yourdomain"
+    details: "Currently studying computational science at IISc, Bangalore"
